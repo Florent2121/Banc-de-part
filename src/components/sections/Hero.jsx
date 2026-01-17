@@ -13,8 +13,8 @@ const Hero = () => {
                         BANC_01
                     </h1>
                     <div className="font-mono text-sm md:text-xl leading-tight opacity-80">
-                        <span className="block md:inline mr-2">44.666105° N</span>
-                        <span className="block md:inline">6.785568° E</span>
+                        <span className="block md:inline mr-2">44°39’58.0”N</span>
+                        <span className="block md:inline">6°47’08.0”E</span>
                     </div>
                 </div>
             </div>
