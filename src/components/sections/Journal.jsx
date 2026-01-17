@@ -5,19 +5,19 @@ const steps = [
     {
         id: "01",
         title: "IDÉE DU PROJET",
-        desc: "On avait cette idée depuis longtemps, marqué physiquement les plus belles vues de Ceillac. On a décider de commencer à l'été 2025 ayant un peu de temps pendant nos vacances.",
+        desc: "On avait cette idée depuis longtemps, marquer physiquement les plus belles vues de Ceillac. On a décidé de commencer à l'été 2025 ayant un peu de temps pendant nos vacances.",
         specs: "Le 1er d'une longue série annuelle"
     },
     {
         id: "02",
         title: "FABRICATION",
-        desc: "Sélection de bois local. fabrication artisanale dans le jardin au village, avec les moyens du bords.",
+        desc: "Sélection de bois local. Fabrication artisanale dans le jardin au village, avec les moyens du bord.",
         specs: "MÉLÈZE / 35KG"
     },
     {
         id: "03",
         title: "INSTALLATION",
-        desc: "Installation à coté de l'envol des parapentes, donnant une vue impériale sur la vallée de Ceillac.",
+        desc: "Installation à côté de l'envol des parapentes, donnant une vue impériale sur la vallée de Ceillac.",
         specs: "ALT. 1820M / PERMANENT"
     }
 ];
