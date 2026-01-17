@@ -54,7 +54,7 @@ const Hero = () => {
                         className="absolute bottom-6 right-6 md:bottom-10 md:right-10 bg-bg border border-ink p-4 md:p-6 max-w-sm z-10"
                     >
                         <p className="font-mono text-xs md:text-sm uppercase leading-relaxed">
-                            "Les conquérents de l'inutile."
+                            "Les conquérants de l'inutile."
                         </p>
                     </motion.div>
                 </div>
